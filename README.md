@@ -10,3 +10,6 @@ the python codes of paper "Communication-oriented Autoencoders - where Shannon m
 5. Install agnez: `pip install git+https://github.com/AgnezIO/agnez.git`
 6. Install seaborn: `pip install seaborn`
 
+### demo
+1. C-Pri-AE-four Gaussian prior file is the demo to train four digitials from MNIST dataset and show Bottleneck layer with four Gaussian prior 
+
