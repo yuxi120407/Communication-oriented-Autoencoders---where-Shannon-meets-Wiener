@@ -12,7 +12,8 @@ the python codes of paper "Communication-oriented Autoencoders - where Shannon m
 
 ### demo
 1. we upload demos which we train autoencoder architecture with Pri and c-loss funciton. 
-2 .we train four digitals: '0','1','4','5' with four Gaussian prior and show the bottleneck layer, which is shown in 'C-Pri-AE-four    Gaussian prior demo'. We also add source noise when training, add channel noise when testing and calculate mean square error which is shown in 'C-Pri-AE-ten Gaussian prior demo'. The weights which we have already trained are in 'noise_Gaussian4_pri model' and 'noise_Gaussian10_pri model'
+2. we train four digitals: '0','1','4','5' with four Gaussian prior and show the bottleneck layer, which is shown in 'C-Pri-AE-four    Gaussian prior demo'. We also add source noise when training, add channel noise when testing and calculate mean square error which is shown in 'C-Pri-AE-ten Gaussian prior demo'. The weights which we have already trained are in 'noise_Gaussian4_pri model' and 'noise_Gaussian10_pri model'
 
 ### Pri and C-loss
-
+1. 
+2.
