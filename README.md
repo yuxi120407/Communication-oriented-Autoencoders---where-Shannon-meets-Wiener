@@ -11,5 +11,6 @@ the python codes of paper "Communication-oriented Autoencoders - where Shannon m
 6. Install seaborn: `pip install seaborn`
 
 ### demo
-1. C-Pri-AE-four Gaussian prior file is the demo to train four digitials from MNIST dataset and show Bottleneck layer with four Gaussian prior 
+we upload demos which we train autoencoder architecture with Pri and c-loss funciton. 
+we train four digitals: '0','1','4','5' with four Gaussian prior and show the bottleneck layer, which is shown in 'C-Pri-AE-four Gaussian prior demo'. We also add source noise when training, add channel noise when testing and calculate mean square error which is shown in 'C-Pri-AE-ten Gaussian prior demo'. The weights which we have already trained are in ''
 
