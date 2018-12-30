@@ -1,5 +1,5 @@
 # Communication-oriented-Autoencoders---where-Shannon-meets Wiener
-The python codes of paper "Communication-oriented Autoencoders - where Shannon meetsWiener"
+The python codes of paper "Communication-oriented Autoencoders - where Shannon meets Wiener"
 
 
 ### Installation
