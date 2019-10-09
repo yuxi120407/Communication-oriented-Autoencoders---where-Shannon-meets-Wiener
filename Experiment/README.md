@@ -5,3 +5,10 @@ We use one Gaussian distribution with zero mean and std is 5 in the bottleneck l
 J = L(S, D(E(S))) + scale*(alapha*H(E(S)) + beta*Dcs(E(S)||P))
 ### basic_AE
 we don't add anything in the loss function except for the mse between input and output.
+
+### Results
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
