@@ -11,4 +11,8 @@ we don't add anything in the loss function except for the mse between input and 
 | :------------  |:---------:| -------:|
 |    4dB         | 0.0713    | 0.0592  |
 |    6dB         | 0.0663    | 0.0549  |
-|    8dB         | 0.0619    |   0.0516   |
+|    8dB         | 0.0619    | 0.0516  |
+|    10dB         | 0.0571   | 0.0490  |
+|    12dB         | 0.0521    | 0.0469  |
+|    14dB         | 0.0481    | 0.0454 |
+
