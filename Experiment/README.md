@@ -7,8 +7,8 @@ J = L(S, D(E(S))) + scale*(alapha*H(E(S)) + beta*Dcs(E(S)||P))
 we don't add anything in the loss function except for the mse between input and output.
 
 ### Results
-| Channel Noise  | basic_AE  | pri_AE |
-| :------------ |:---------------:| -----:|
-| 4dB     | some wordy text | $1600 |
-| 6dB      | centered        |   $12 |
-| 8dB | are neat        |    $1 |
+| Channel Noise  | basic_AE  | pri_AE  |
+| :------------  |:---------:| -------:|
+|    4dB         | 0.0713    | 0.0592  |
+|    6dB         | 0.0663    | 0.0549  |
+|    8dB         | 0.0619    |   0.0516   |
