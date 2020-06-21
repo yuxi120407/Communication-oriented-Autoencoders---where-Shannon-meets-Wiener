@@ -4,7 +4,7 @@ The python codes of paper "Communication-oriented Autoencoders - where Shannon m
 
 ### Installation
 1. Install an Anaconda environment (recommended).
-2. From the environment, update Theano: `conda uninstall theano; pip install https://github.com/Theano/Theano.git`
+2. From the environment, update Theano: `pip install Theano==0.8.0`
 3. Install Keras: `pip install keras==0.3.3`
 4. Install Seya: `pip install git+https://github.com/EderSantana/Seya.git`
 5. Install agnez: `pip install git+https://github.com/AgnezIO/agnez.git`
