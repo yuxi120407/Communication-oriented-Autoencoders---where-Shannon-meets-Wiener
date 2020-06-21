@@ -9,6 +9,7 @@ The python codes of paper "Communication-oriented Autoencoders - where Shannon m
 4. Install Seya: `pip install git+https://github.com/EderSantana/Seya.git`
 5. Install agnez: `pip install git+https://github.com/AgnezIO/agnez.git`
 6. Install seaborn: `pip install seaborn`
+7. Install hdf5: `pip install h5py `
 
 ### Demo
 1. We upload demos which we train autoencoder architecture with Pri and c-loss funciton. 
